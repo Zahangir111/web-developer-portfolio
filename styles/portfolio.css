@@ -41,6 +41,9 @@ nav a {
 }
 .header {
   background-color: #fff8f3;
+  background-image: url(../images/developer.png);
+  background-repeat: no-repeat;
+  background-position: bottom left;
 }
 .banner {
   padding: 47px 38px 0px 200px;
