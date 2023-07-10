@@ -7,6 +7,9 @@ body {
 /* nav css style  */
 nav {
   display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 200px;
 }
 .nav-tittle {
   color: #181818;
@@ -18,6 +21,7 @@ nav {
 }
 nav ul {
   display: flex;
+  align-items: center;
 }
 nav li {
   list-style: none;
@@ -32,4 +36,19 @@ nav a {
   color: #fff;
   font-size: 20px;
   font-weight: 700;
+  border: 0;
+  padding: 18px 35px;
+}
+.header {
+  background-color: #fff8f3;
+}
+.banner {
+  padding: 47px 38px 0px 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.banner-image img {
+  width: 584px;
+  height: 676px;
 }
