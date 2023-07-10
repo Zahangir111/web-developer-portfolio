@@ -1,1 +1,12 @@
 /* common shared styles  */
+body{
+    font-family: 'Kaushan Script',
+            cursive;
+        font-family: 'Open Sans',
+            sans-serif;
+}
+
+/* nav css style  */
+nav{
+    display: flex;
+}
